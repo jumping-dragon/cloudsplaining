@@ -10,3 +10,4 @@ bandit==1.7.1
 black==20.8b1
 # type check
 mypy==0.812
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
